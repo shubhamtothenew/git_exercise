@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-this is file.txt
+this is file.txt and i change this file from ui.
 
-=======
->>>>>>> parent of 7cb0f91... changes in the file1 and file
