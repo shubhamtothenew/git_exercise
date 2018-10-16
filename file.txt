@@ -1,2 +1,4 @@
-this is file.txt from master
+
+this is file.txt after resolving confict
+
 
