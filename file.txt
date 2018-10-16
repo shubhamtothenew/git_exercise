@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is file.txt
 
+=======
+>>>>>>> parent of 7cb0f91... changes in the file1 and file
